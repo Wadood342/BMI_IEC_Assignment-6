@@ -1,3 +1,7 @@
+body{
+    background: linear-gradient(#4bad70, #457b9d) fixed;
+
+}
 .calculator {
     max-width: 400px;
     margin: 0 auto;
@@ -33,4 +37,7 @@
 }
 .status2{
     background-color: #f7f7f7;
+}
+.main{
+    background: linear-gradient(#b5e48c, #457b9d) fixed;
 }

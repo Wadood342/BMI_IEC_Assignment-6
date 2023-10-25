@@ -1,0 +1,36 @@
+.calculator {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f7f7f7;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.status-box {
+    padding: 5px;
+    color: black;
+    border-radius: 5px;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 10px;
+}
+.underweight {
+    background-color: #ffe189;
+}
+.normal {
+    background-color: #8cd47e;
+}
+.overweight {
+    background-color: #ffb54c;
+}
+.obese {
+    background-color: #ff6961;
+}
+.valid{
+    background-color: wheat;
+    border: red;
+    color: red;
+}
+.status2{
+    background-color: #f7f7f7;
+}
